@@ -7,7 +7,7 @@ cask "presenternotes" do
   desc "A focused macOS app that displays your presenter notes one slide at a time, and advances as you speak."
   homepage "https://github.com/pardel/PresenterNotes"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "PresenterNotes.app"
 
