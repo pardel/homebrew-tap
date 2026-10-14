@@ -1,6 +1,6 @@
 cask "tokenz" do
-  version "0.1.0"
-  sha256 "4cad02f92c0b09f7cdf3e7c899bd4c561f494355fa3e37e00fabea7673aac498"
+  version "0.2.0"
+  sha256 "18ddbc398562dbc434e556bcf515f0fb9cc15621a9fbacf439178d4f5e22d9e0"
 
   url "https://github.com/pardel/tokenz/releases/download/v#{version}/Tokenz-#{version}.zip"
   name "Tokenz"
